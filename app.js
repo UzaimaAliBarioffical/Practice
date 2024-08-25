@@ -202,4 +202,12 @@
 // }
 // a (12,3)
 
-
+function changeColour(){
+// let element =document.getElementById("main").classList.toggle("hide");
+// element.setAttribute("class" ,"cricle");
+let element=document.getElementsByTagName("div");
+for(let i=0;i<element.length;i++
+){
+    element[i].style.backgroundColor=element[i].id;
+}
+}
