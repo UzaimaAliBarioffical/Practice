@@ -23,7 +23,19 @@
 
 // }
 //  console.log (sum());
-let araa=[1,2,3];
-let ara1=[7,8,9]
-let m =[...araa,4,5,6,...ara1]
-console.log(m);
+// let araa=[1,2,3];
+// let ara1=[7,8,9]
+// let m =[...araa,4,5,6,...ara1]
+// console.log(m);
+// function myfun(a,b,...c){
+//     let f=a+ b+c
+// }
+// myfun(20,20,30,40,40)
+
+
+// function myfun ( a,b,...c){
+//     let sum =a+b+c
+//     console.log(sum);
+    
+// }
+//   myfun(30,20,40,40);
