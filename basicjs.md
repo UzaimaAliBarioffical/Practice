@@ -1,6 +1,7 @@
 alert
 prompt
 premative data type
+non premative data type
 variable
 mathexpressions
 concatenation
