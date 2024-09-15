@@ -216,3 +216,8 @@
 //     box.style.backgroundColor="red"
 // })
 
+// let uzaima = "uzaima"
+// for (let i =0 ;i<uzaima.length;i++){
+//     console.log(uzaima[i].length);
+    
+// }
